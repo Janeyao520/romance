@@ -5,6 +5,7 @@
 
 
 下载源码：请打开sound code这个文件夹，运行方式：
+
 npm install 
 
 npm run dev  
